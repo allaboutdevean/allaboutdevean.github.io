@@ -1,0 +1,58 @@
+body{
+    background-color:rgba(166,162,162,1);
+    color:#a6e69c;
+    text-align:center;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color:white;
+}
+header {
+    color:white;
+    Text-align: center;
+    background: url(https://lh3.google.com/u/0/d/1TMiVRuyMoQvnxIXz6Yd7ns5mXmnWHrdL=w1919-h858-iv1);
+    background-size: cover;
+    padding: 20px 0px 0px 0px
+}
+img {
+    border:7px solid white ;
+    
+}
+a {
+    text-align: center;
+    color:#847577;
+    font-size:30px;
+}
+ul, li {
+    padding: 10px;
+    display: inline;
+    text-align: center;
+    padding:0px 10px 0px 10px;
+
+}
+article {
+    width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 500px;
+    color:#fbfbf2;
+}
+.picture {
+    text-align: center;
+}
+@media (max-width: 500px) {
+   h1 {
+       font-size: 36px;
+   }
+   li {
+       display: block;
+       padding: 5px;
+   }
+}
+p {
+    text-align: left;
+}
