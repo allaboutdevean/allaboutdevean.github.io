@@ -12,13 +12,13 @@ h2{
     font-size: 70px;
     text-align: center;
     font-family: 'Pacifico', cursive;
-    color: white;
+    color: black;
 }
 header {
-    color: white;
+    color: black;
     text-align: center;
     background: url(https://lh3.google.com/u/1/d/1bwYKsHoSis4Rf_0mYV1mAkW4B6RiEhW9=w1440-h744-iv1);
-    background-size: 100px;
+    background-size: 50px;
 }
 img {
     border:7px solid white ;
