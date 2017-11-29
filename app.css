@@ -1,4 +1,4 @@
-h3{
+body{
     background-color:rgba(166,162,162,1);
     color:#a6e69c;
     text-align:center;
@@ -57,4 +57,8 @@ article {
 }
 p {
     text-align: left;
+}
+.atm {
+    color:white;
+    text-align: center;
 }
