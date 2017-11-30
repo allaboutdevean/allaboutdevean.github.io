@@ -30,7 +30,7 @@ img {
 }
 a {
     text-align: center;
-    color:#847577;
+    color:black;
     font-size:30px;
 }
 ul, li {
@@ -38,7 +38,6 @@ ul, li {
     display: inline;
     text-align: center;
     padding:0px 10px 0px 10px;
-    color:black;
 
 }
 article {
