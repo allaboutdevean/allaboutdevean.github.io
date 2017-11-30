@@ -1,5 +1,5 @@
 body {
-    background:black;
+    background:darkgrey;
     color:black;
     text-align: center;
 }
@@ -18,7 +18,7 @@ h3{
 }
 
 header {
-    color:darkgrey;
+    color:black;
     Text-align: center;
     background: url(https://lh3.google.com/u/1/d/1B4WzV2bXvgkemt-HmnAzutDb82168w_E=w1316-h746-iv1);
     background-size: cover;
