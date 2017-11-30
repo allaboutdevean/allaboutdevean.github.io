@@ -3,22 +3,28 @@ body{
     color:black;
     text-align:center;
 }
+header {
+    color: black;
+    text-align: center;
+    background: url(https://lh3.google.com/u/1/d/1s_1W8cb5qvk2ZfMD0eHkFEeN-cc7IclL=w1440-h744-iv1);
+    background-size: 450px;
+}
 h1{
     font-size: 100px;
     color: black;
     font-family: 'Pacifico', cursive;
 }
 h2{
-    font-size: 70px;
+    font-size: 58px;
     text-align: center;
     font-family: 'Pacifico', cursive;
     color: black;
 }
-header {
-    color: black;
-    text-align: center;
-    background: url(https://lh3.google.com/u/1/d/1s_1W8cb5qvk2ZfMD0eHkFEeN-cc7IclL=w1440-h744-iv1);
-    background-size: 450px;
+h3{
+font-size:40px;
+text-align: center;
+font-family: 'Pacifico', cursive;
+color: black;
 }
 img {
     border:7px solid black ;
